@@ -26,7 +26,7 @@ export default component$(() => {
                             </p>
                             <button
                                 type="submit"
-                                class="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-400 hover:bg-green-700 focus:shadow-outline focus:outline-none"
+                                class="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-500 hover:bg-green-800 focus:shadow-outline focus:outline-none"
                             >
                                 Read more
                             </button>
@@ -44,7 +44,7 @@ export default component$(() => {
                             </p>
                             <button
                                 type="submit"
-                                class="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-400 hover:bg-green-700 focus:shadow-outline focus:outline-none"
+                                class="inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-green-500 hover:bg-green-800 focus:shadow-outline focus:outline-none"
                             >
                                 Read more
                             </button>

@@ -34,7 +34,7 @@ export default component$(() => {
             <li>
                 <a
                   href="/"
-                  class="bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600">
+                  class="bg-green-500 text-white py-2 px-4 rounded hover:bg-green-700">
                   Login
                 </a>
             </li>
