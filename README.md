@@ -1,4 +1,5 @@
-# Tailwind CSS starter project with Qwik and Flowbite
+# DEKUT Clubs Website
+
 
 This is a website to digitize the club process at Dedan Kimathi University. 
 
