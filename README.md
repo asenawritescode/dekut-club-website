@@ -1,16 +1,12 @@
 # Tailwind CSS starter project with Qwik and Flowbite
 
-This repository is a free and open-source starter project that has Tailwind CSS, Flowbite, and Qwik preconfigured so you can instantly leverage the utility-first classes from Tailwind CSS, the UI components from Flowbite and the framework structure from Qwik.
+This is a website to digitize the club process at Dedan Kimathi University. 
 
-A guide has been published on the [Flowbite Documentation](https://flowbite.com/docs/getting-started/qwik/) for more information.
+Built using Qwik City, FlowBite & Tailwind CSS
 
 ---
 
 ## Project Structure
-
-This project is using Qwik with [QwikCity](https://qwik.builder.io/qwikcity/overview/). QwikCity is just an extra set of tools on top of Qwik to make it easier to build a full site, including directory-based routing, layouts, and more.
-
-Inside your project, you'll see the following directory structure:
 
 ```
 ├── public/
@@ -71,3 +67,8 @@ pnpm serve
 ```
 
 Then visit [http://localhost:8080/](http://localhost:8080/)
+
+
+## Screenshots
+
+![Project Screenshot](screenshots/image.png)
